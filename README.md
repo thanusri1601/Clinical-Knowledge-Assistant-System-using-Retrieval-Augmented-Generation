@@ -1,4 +1,4 @@
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# Clinical-Knowledge-Assistant-System-using-Retrieval-Augmented-Generation
 
 # How to run?
 ### STEPS:
